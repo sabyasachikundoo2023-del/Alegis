@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+.env
+node_modules/
+**/node_modules/
+# Ignore dataset folders
+**/data/
+**/datasets/
+*.zip
+*.tar.gz
+*.mp4
